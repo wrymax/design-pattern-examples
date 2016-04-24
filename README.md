@@ -1,2 +1,3 @@
 # design-pattern-examples
-Design pattern examples via Java.
+- Classical design pattern example code.
+- Via Java, ruby and more possible languages.
